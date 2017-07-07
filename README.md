@@ -1,6 +1,6 @@
-### Header 3
+# Human Activity Recognition
 
-HarGenerator
-Start: "sbt run"
-
-HarConsumer
+## Development setup
+* Install ...
+* Start the data generator: `sbt run`
+* Start HarConsumer: `press play`
